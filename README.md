@@ -6,6 +6,9 @@
 
 代码中主要实现了以下几个功能，输入一张照片可以分辨出数字，并识别输出到图示中，以下是效果
 <img width="684" height="437" alt="image" src="https://github.com/user-attachments/assets/3c66663e-0c06-4ea7-9a2b-a4b29fbe490d" />
+<img width="677" height="385" alt="image" src="https://github.com/user-attachments/assets/cab9f30b-44c7-4c8b-89f9-3ee0051d2407" />
+<img width="692" height="394" alt="image" src="https://github.com/user-attachments/assets/7127920f-5cf7-4fa0-8e1b-7bb3ae554954" />
+
 
 
 ================================== 我是分割线 =================================
@@ -21,8 +24,6 @@
 - 4 predict             ---- 导入模型输出预测结果
 - 5 showResults         ---- 显示结果及边框
 
-更加详细的介绍可以参考我的博客 https://blog.csdn.net/qq8993174/article/details/89081859
-
 ps. 以下是my_mnist_model.h5生成所用的模块版本号，低于此版本的可能代码加载不起来
 
 Tensorflow  -- 1.12.0
@@ -30,4 +31,5 @@ Tensorflow  -- 1.12.0
 Keras       -- 2.2.4
 
 opencv2     -- 3.4.4
+
 
