@@ -5,7 +5,8 @@
 - 4 用我们编写的模型预测出结果并输出（如下所示的效果）
 
 代码中主要实现了以下几个功能，输入一张照片可以分辨出数字，并识别输出到图示中，以下是效果
-![识别数字](https://github.com/Wangzg123/HandwrittenDigitRecognition/blob/master/imgs/test1_result.jpg?raw=true)
+<img width="684" height="437" alt="image" src="https://github.com/user-attachments/assets/3c66663e-0c06-4ea7-9a2b-a4b29fbe490d" />
+
 
 ================================== 我是分割线 =================================
 
@@ -29,3 +30,4 @@ Tensorflow  -- 1.12.0
 Keras       -- 2.2.4
 
 opencv2     -- 3.4.4
+
